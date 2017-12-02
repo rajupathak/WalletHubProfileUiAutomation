@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\ProfilePage_02_12_2017_04_28_40.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\ProfilePage_02_12_2017_04_28_40.png' height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Selected Five Star_02_12_2017_04_28_51.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Selected Five Star_02_12_2017_04_28_51.png' height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Drop Down Value_02_12_2017_04_28_54.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Drop Down Value_02_12_2017_04_28_54.png' height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Over all Rating selected_02_12_2017_04_28_58.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Over all Rating selected_02_12_2017_04_28_58.png' height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Review comments_02_12_2017_04_29_00.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Review comments_02_12_2017_04_29_00.png' height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Review section page_02_12_2017_04_29_16.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Review section page_02_12_2017_04_29_16.png' height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="WalletHubReviewCommentSanityTest" duration-ms="74493" started-at="2017-12-02T10:58:02Z" finished-at="2017-12-02T10:59:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="74493" started-at="2017-12-02T10:58:02Z" finished-at="2017-12-02T10:59:17Z">
+      <class name="com.wallethub.UIAutomation.WalletHubProfileUiAutomation.PostReviewComment.TCC01_ToVerifyFiveStarAreSelected">
+        <test-method status="PASS" signature="launchTheBrowser()[pri:0, instance:com.wallethub.UIAutomation.WalletHubProfileUiAutomation.PostReviewComment.TCC01_ToVerifyFiveStarAreSelected@6093dd95]" name="launchTheBrowser" is-config="true" duration-ms="38797" started-at="2017-12-02T16:28:02Z" finished-at="2017-12-02T16:28:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\ProfilePage_02_12_2017_04_28_40.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\ProfilePage_02_12_2017_04_28_40.png' height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchTheBrowser -->
+        <test-method status="PASS" signature="selectStar()[pri:1, instance:com.wallethub.UIAutomation.WalletHubProfileUiAutomation.PostReviewComment.TCC01_ToVerifyFiveStarAreSelected@6093dd95]" name="selectStar" duration-ms="10354" started-at="2017-12-02T16:28:41Z" finished-at="2017-12-02T16:28:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Selected Five Star_02_12_2017_04_28_51.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Selected Five Star_02_12_2017_04_28_51.png' height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- selectStar -->
+        <test-method status="PASS" signature="selectValueFromDropDown()[pri:2, instance:com.wallethub.UIAutomation.WalletHubProfileUiAutomation.PostReviewComment.TCC01_ToVerifyFiveStarAreSelected@6093dd95]" name="selectValueFromDropDown" duration-ms="6664" started-at="2017-12-02T16:28:51Z" depends-on-methods="com.wallethub.UIAutomation.WalletHubProfileUiAutomation.PostReviewComment.TCC01_ToVerifyFiveStarAreSelected.selectStar" finished-at="2017-12-02T16:28:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Drop Down Value_02_12_2017_04_28_54.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Drop Down Value_02_12_2017_04_28_54.png' height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Over all Rating selected_02_12_2017_04_28_58.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Over all Rating selected_02_12_2017_04_28_58.png' height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- selectValueFromDropDown -->
+        <test-method status="PASS" signature="verifyActaulandEcpectedReviewCommnets()[pri:3, instance:com.wallethub.UIAutomation.WalletHubProfileUiAutomation.PostReviewComment.TCC01_ToVerifyFiveStarAreSelected@6093dd95]" name="verifyActaulandEcpectedReviewCommnets" duration-ms="18657" started-at="2017-12-02T16:28:58Z" finished-at="2017-12-02T16:29:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Review comments_02_12_2017_04_29_00.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Review comments_02_12_2017_04_29_00.png' height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Review section page_02_12_2017_04_29_16.png'><img src='C:\JavaPractice\VodafoneUkUIAutomation\WalletHubProfileUiAutomation\src\main\java\com\wallethub\UIAutomation\WalletHubProfileUiAutomation\ScreenShots\Review section page_02_12_2017_04_29_16.png' height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyActaulandEcpectedReviewCommnets -->
+      </class> <!-- com.wallethub.UIAutomation.WalletHubProfileUiAutomation.PostReviewComment.TCC01_ToVerifyFiveStarAreSelected -->
+    </test> <!-- Test -->
+  </suite> <!-- WalletHubReviewCommentSanityTest -->
+</testng-results>
